@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "India"
+locale                   : "en-US"
 title                    : "Adeep Hande"
 title_separator          : "-"
 name                     : "Adeep Hande"
@@ -25,7 +25,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
- #facebook               :https://www.facebook.com/adeep.hande/
+ facebook               : 
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
@@ -88,7 +88,7 @@ author:
   avatar           : "/images/Adeep.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist in the making"
   location         : "Udupi,Karnataka,India"
-  email            : adeephande1000@gmail.com
+  email            : "adeephande1000@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/adeepH
-  gitlab           : https://gitlab.com/adeep_hande
+  github           : "https://github.com/adeepH"
+  gitlab           : "https://gitlab.com/adeep_hande"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "Adeep Hande"  "adeep-hande-74922216b " (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "Adeep Hande"  "adeep-hande-74922216b "
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
